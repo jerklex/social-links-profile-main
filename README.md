@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile Çözümü
 
-Bu, [Frontend Mentor'daki sosyal link profil sayfasının]((https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) bir çözümüdür. Frontend Mentor zorlukları, gerçekçi projeler oluşturarak kodlama becerilerinizi geliştirmenize yardımcı olur.
+Bu, [Frontend Mentor'daki sosyal link profil sayfasının](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) bir çözümüdür. Frontend Mentor zorlukları, gerçekçi projeler oluşturarak kodlama becerilerinizi geliştirmenize yardımcı olur.
 
 ## İçindekiler
 - [Genel Bakış](#genel-bakış)
